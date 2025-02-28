@@ -1,0 +1,7 @@
+/node_modules
+package-lock.json
+/cypress.d.ts
+/cypress/downloads
+/cypress/screenshots
+/cypress/reports
+/mochawesome-report
